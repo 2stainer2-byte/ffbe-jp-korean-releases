@@ -1,0 +1,9 @@
+*.apk
+*.gz
+*.dat
+*.jks
+*.keystore
+*password*
+game-data/
+saves/
+local-signing/
